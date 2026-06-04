@@ -2,7 +2,7 @@
 
 ## Expansive
 
-Flexible workspace solutions for individuals, teams, and growing companies, including private offices, team suites, coworking, on-demand workspace, meeting rooms, and event spaces.
+Flexible workspace solutions for individuals, teams, and growing companies, including private offices, team suites, co-working, on-demand workspace, meeting rooms, and event spaces.
 
 [Explore Expansive](https://expansive.com/)
 
